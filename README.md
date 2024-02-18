@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @OvinduPathiraja
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+🔗 https://ovindupathiraja.medium.com/
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvinduPathiraja&layout=compact)
+
 
 <!---
 OvinduPathiraja/OvinduPathiraja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
