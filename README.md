@@ -2,6 +2,8 @@
 🔗 https://ovindupathiraja.medium.com/
 <br/>
 
+![Instagram story - 1](https://github.com/OvinduPathiraja/OvinduPathiraja/assets/128158494/f8dcd833-acd2-432d-bf4c-64c25497932e)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvinduPathiraja&layout=compact)
 
 
