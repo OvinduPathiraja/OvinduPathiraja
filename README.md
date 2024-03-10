@@ -11,6 +11,8 @@
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=OvinduPathiraja&theme=dark)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ovindupathiraja)](https://github.com/OvinduPathiraja/github-readme-stats)
+
 
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65e7503fae8aebdd807ad880?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cqa)](https://roadmap.sh)
 
