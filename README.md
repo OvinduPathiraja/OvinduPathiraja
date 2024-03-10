@@ -22,4 +22,4 @@
 
 </div>
 
-<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ovindupathiraja&theme=dark)](https://github.com/OvinduPathiraja/github-readme-stats) -->
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ovindupathiraja&theme=dark)](https://github.com/OvinduPathiraja/github-readme-stats) 
