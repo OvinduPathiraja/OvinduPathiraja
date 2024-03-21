@@ -13,7 +13,7 @@
 
 
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65e7503fae8aebdd807ad880?variant=light&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cqa)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/65e7503fae8aebdd807ad880?variant=dark&roadmaps=frontend%2Cbackend%2Cfull-stack%2Cqa)](https://roadmap.sh)
 
 [![Skills](https://skillicons.dev/icons?i=react,flutter,kotlin,html,css,js,php,java,mysql&perline=10)](https://skillicons.dev)
 </br>
