@@ -10,6 +10,9 @@
 </br>
 [![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,idea,androidstudio,postman&perline=10)](https://skillicons.dev)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OvinduPathiraja&show_icons=true&theme=dark&cache_seconds=1800&locale=en)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=OvinduPathiraja&show_icons=true&theme=dark&locale=en&layout=compact)
+
 
 </div>
 
